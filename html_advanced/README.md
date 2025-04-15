@@ -1,25 +1,33 @@
-# HTML Basics Project
+# HTML, advanced
 
-# Resources
+Project to practice HTML, advanced.
 
-# Learning Objectives
+## HTML advanced
 
-## General
-- # What is HTML
-- # How to create an HTML page from a wireframe
-- # What is a markup language
-- # What is the DOM (Document Object Model)
-- # What is an element / tag
-- # What is an attribute
-- # The purpose of each HTML tag
+HTML.
 
-# Requirements
+```bash
+HTML
+```
 
-## General
-- # Ensure all your files end with a new line.
-- # Include a `README.md` file at the root of the project folder.
-- # Do not use external libraries. This website must be built with only HTML/CSS/JavaScript; no NodeJS, React, VueJS, Bootstrap, etc.
-- # Your code should be W3C compliant and validate with the W3C-Validator.
+## Usage
 
-# ---
-😊🚀
+```HTML
+
+# HTML
+Advanced
+
+# HTML
+Advanced
+
+# HTML
+Advanced
+```
+
+## HTML
+
+Advanced
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
